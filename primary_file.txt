@@ -1,3 +1,1 @@
-This is the first file added to my project.
-
-It comes before all other files.  
+My text document
